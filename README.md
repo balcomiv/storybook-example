@@ -93,3 +93,25 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - `npm i @nrwl/storybook -D`
 - `nx g @nrwl/angular:storybook-configuration shared-ui`
 - `nx run shared-ui:storybook`
+
+# Storybook
+
+## Issues
+
+- https://giters.com/nrwl/nx/issues/7823
+
+## Duncan Hunter
+
+- https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/introduction/6-angular-material
+- `@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';`
+
+## Material Styles
+
+- https://issuehunt.io/r/storybookjs/storybook/issues/14912
+- https://issueexplorer.com/issue/nrwl/nx/7054
+
+- https://dev.to/vitorstick/sharing-styles-between-apps-inside-nx-workspace-20i5
+
+## Mocking
+
+- https://ultimatecourses.com/blog/mocking-apis-storybook-nx-monorepo

@@ -1,20 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'storybook-example-nav',
   template: `
-    <p>
-      nav works!
-    </p>
+    <h1>Mat Button Example</h1>
+    <button mat-stroked-button>Submit</button>
   `,
-  styles: [
-  ]
+  styles: [],
 })
-export class NavComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
-}
+export class NavComponent {}
